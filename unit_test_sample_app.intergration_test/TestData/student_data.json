@@ -1,0 +1,11 @@
+{
+  "PostStudent": [
+    {
+      "FirstName":"Amesh",
+      "LastName" : "Jayamanne",
+      "MobileNo" :"88720324",
+      "Address" :"5 Lorong Melayu"
+    }
+
+  ]
+}

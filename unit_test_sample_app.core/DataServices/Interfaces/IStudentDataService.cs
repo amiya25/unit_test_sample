@@ -8,6 +8,6 @@ namespace unit_test_sample_app.core.DataServices.Interfaces
 {
     public interface IStudentDataService
     {
-        Task<int> Save(Student student);
+        Task<Student> Save(Student student);
     }
 }
